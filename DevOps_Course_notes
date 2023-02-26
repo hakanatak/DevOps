@@ -33,11 +33,55 @@ The model is called waterfall because it progresses downward direction.
 - maintenance
 
 **SWOT (++Advantages)**
+- Easy to use 
+- Cost Effective
+- Time saving
+- Easy testing
+- Suitable for small projects
+- Managerial Control
+
+
+* Disadvantages**
 - Risky and Uncertain
 - Not suitable for complex projects
 - Final product avaible only at the end
 - Not suitable for projects with changing requirements
 - Difficult to change in the testing phase.
+
+Agile Model
+This model focuses on process adobtability anf customer satisfaction by rapid delivery of working software product.
+Build > Design > Plan > Analyze > Review > Launch 
+
+Product Backlog > Sprint Planning > Sprit Backlog
+Scrum Team & Daily Scrums  > Sprint Review 
+
+**SWOT (++Advantages)**
+- Dynamic Response to requirement
+- Cost effective
+- Superior quality product 
+- Direct communication between stakeholder
+- Best suited for large and long term projects.
+- Minimunm resource requirement
+
+** Disadvantages**
+- Poor Documentation
+- Difficult to estimated time and efford for complex projects
+- Risky due to the ever eveloding characteristic. 
+- Difficult to predict the expected results when requirements are unclear.
+
+DASA ( DevOps Agile Skills Association) 
+Define certain principles for devOps.
+1. Customer Centric Action
+  Short feedback loops with real customers and end users are essential nowadays and all activity in developing IT products and services revolves around these clients.
+2. Create with the end in mind.
+3. End to End responsibility
+4. Cross-functional autonoumous teams 
+5. Continuous Improvement 
+6. Automate everything you can 
+
+# 1. 
+
+
 
 
 
