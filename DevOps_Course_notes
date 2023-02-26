@@ -1,0 +1,44 @@
+# Benefits of Devops
+- Faster Deployment
+- Stabilazed work environment
+- Improved product Quality
+- Automation
+- Agility
+
+#Primary Devops Engineering Skills
+- Git & Gitlab& Github
+- CI/CD With Jenkins
+- Selenium
+- Ansible
+- Nagios
+- Kubernetes
+
+#Dev
+- Create
+- Plan
+- Verify
+- Package
+#Ops
+- RElease
+- Monitor
+- Configure
+
+Waterfall Model ( Traditional Sofware Development Approaches)
+The model is called waterfall because it progresses downward direction.
+- Requirement Analysis
+- System Design
+- Implementation
+- Testing
+- Deployment
+- maintenance
+
+**SWOT (++Advantages)**
+- Risky and Uncertain
+- Not suitable for complex projects
+- Final product avaible only at the end
+- Not suitable for projects with changing requirements
+- Difficult to change in the testing phase.
+
+
+
+
