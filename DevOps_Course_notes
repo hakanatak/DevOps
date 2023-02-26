@@ -72,16 +72,42 @@ Scrum Team & Daily Scrums  > Sprint Review
 DASA ( DevOps Agile Skills Association) 
 Define certain principles for devOps.
 1. Customer Centric Action
-  Short feedback loops with real customers and end users are essential nowadays and all activity in developing IT products and services revolves around these clients.
 2. Create with the end in mind.
 3. End to End responsibility
 4. Cross-functional autonoumous teams 
 5. Continuous Improvement 
 6. Automate everything you can 
 
-# 1. 
+# 1. Customer Centric Action
+Short feedback loops with real customers and end users are essential nowadays and all activity in developing IT products and services revolves around these clients.
+To satisfy these customers needs,Dev Ops companies must operate like lean startups, constantly innovating pivoting when a single approach. Isn't it working and investing in goods and services that would delight customers to the great attend possible. 
+#2. Create with the end in mind
+The princible focuses on idetify customers true needs and working towards creating products and services that address these demands.
+#3. End to End Responsibility
+The term refers that the team is responsible for the quality and quantity of service it provides to its clients.
+4# Cross-functional autonoumous teams
+The teams must be completely self-contained thoughtout the product lifecycle.
+5# Continuous Improvement 
+Continuous Improvement enhances the product and services offered to customers. 
+6# Automation Everything You can
+Automation is associated with the goal of redefing how the team delivers its services.
+..............
+DevOps Life Cycle
+The devOps is based on 5 phases.
+* Continious Development
+* Continious Testing
+* Continious Integration
+* Continious Deployment
+* Continious Monitoring
 
+Testing Tools
+>> TestNg, Junit, Selenium etc.
+These tools enable QA's to properly test tultiple code bases in tandem to ensure that the functioning is faultness.
 
+QA - Quality Assurance
+Develops test plans to test new and exiting software. 
+
+Test NG > Generate Reports.
 
 
 
